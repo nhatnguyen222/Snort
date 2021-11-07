@@ -1,2 +1,2 @@
-# Cách cài đặt Snort trên server Ubutu 20.04
-""Cập nhật hệ thống""
+# Cách cài đặt Snort trên server Ubutu 20.0
+**Cập nhật hệ thống**
